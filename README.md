@@ -10,12 +10,12 @@ Additionally, a .env file is attached so you can connect to the existing databas
 
 To run the frontend, do the following:
 
-### cd frontend
-### npm start
+#### cd frontend
+#### npm start
 
 To run the backend, do the following:
 
-### cd backend
-### npm run dev
+#### cd backend
+#### npm run dev
 
 It is recommended to run the backend first and then the frontend.
