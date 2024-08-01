@@ -8,7 +8,7 @@ I have set up the connection to SQL Server using Docker because I am developing 
 
 Additionally, a .env file is attached so you can connect to the existing database during runtime.
 
-To run the frontend, do the following:
+<u>To run the frontend, do the following:</u>
 
 #### cd frontend
 #### npm start
