@@ -8,12 +8,12 @@ I have set up the connection to SQL Server using Docker because I am developing 
 
 Additionally, a .env file is attached so you can connect to the existing database during runtime.
 
-<u>To run the frontend, do the following:</u>
+_To run the frontend, do the following:_
 
 #### cd frontend
 #### npm start
 
-To run the backend, do the following:
+_To run the backend, do the following:_
 
 #### cd backend
 #### npm run dev
